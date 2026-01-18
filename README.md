@@ -25,7 +25,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
       <br>
       <h3>Web Development</h3>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
