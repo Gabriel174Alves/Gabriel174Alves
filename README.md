@@ -62,8 +62,8 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 ### 📫 Contato
 
 <a href="https://www.linkedin.com/in/gabriel-alves-coelho-2485101a2/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a> 
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <a href="mailto:gaa.alves74@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
 </a>
