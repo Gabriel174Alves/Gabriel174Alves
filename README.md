@@ -6,7 +6,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos pessoais como um sistema de gerenciamento de biblioteca e hotsites.
-- 📚 Estudando **Django, FastAPI e Arquitetura de Software**.
+- 📚 Estudando **Django, Flask, FastAPI e Arquitetura de Software**.
 - 🎯 Objetivo: Atuar como Desenvolvedor Python Júnior.
 - 💡 Interesse em lógica de programação e Clean Code.
 
