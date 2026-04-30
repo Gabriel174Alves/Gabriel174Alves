@@ -6,9 +6,24 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 
 ### 🚀 Sobre mim
 - 🔭 Atualmente trabalhando em projetos pessoais como um sistema de gerenciamento de biblioteca e hotsites.
-- 📚 Estudando **Playwright, Django, Flask, FastAPI e Arquitetura de Software**.
+- 📚 Estudando **Django, Flask, FastAPI, Arquitetura de Software e RPA**.
 - 🎯 Objetivo: Atuar como Desenvolvedor Python Júnior.
 - 💡 Interesse em lógica de programação e Clean Code.
+
+---
+
+### 🛠️ Projetos em Destaque
+
+- **Wayne Industries Security System**: Sistema Full-Stack de gerenciamento de recursos e segurança utilizando React, Vite e libSQL.
+- **News Sentiment Monitor**: Aplicação Flask que utiliza a API do Gemini para análise de sentimento de notícias em tempo real.
+- **WhatsApp Automation Bot**: Automação com Python, OpenPyXL e Playwright para notificações automáticas.
+
+---
+
+### 🎓 Formação & Especializações
+- 🎓 **Pós-graduação em Cloud & Edge Computing** - Universidade Anhembi Morumbi (Cursando).
+- 🎓 **Pós-graduação em Inteligência Artificial** - Universidade Anhembi Morumbi (Cursando).
+- 📜 **Tecnólogo em Análise e Desenvolvimento de Sistemas (ADS)** - UNIP.
 
 ---
 
@@ -23,11 +38,12 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
       </div>
       <br>
-      <h3>Web Development</h3>
+      <h3>Web & Automation</h3>
       <div style="display: flex; gap: 10px; flex-wrap: wrap;">
         <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" />
         <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
         <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
       </div>
       <br>
@@ -40,7 +56,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
     </td>
     <td width="50%">
       <div align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/Vo6yaT86SMDc9F5IFw/giphy.gif" width="100%" />
       </div>
     </td>
   </tr>
