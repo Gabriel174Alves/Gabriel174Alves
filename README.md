@@ -56,8 +56,7 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
     </td>
     <td width="50%">
       <div align="center">
-        <!-- Link da imagem corrigido aqui -->
-        <img src="https://media.giphy.com/media/Vo6yaT86SMDc9F5IFw/giphy.gif" width="100%" alt="Batman gif"/>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXN4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="100%" alt="Python coding gif"/>
       </div>
     </td>
   </tr>
