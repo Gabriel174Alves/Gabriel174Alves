@@ -65,12 +65,8 @@ Sou um desenvolvedor focado em Back-end e Python, sempre buscando criar soluçõ
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel174Alves&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel174Alves&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://metrics.lecoq.io/Gabriel174Alves?template=classic&base.header=0&base.activity=0&base.community=0&config.timezone=America/Sao_Paulo" width="100%" />
 </div>
 
 ---
